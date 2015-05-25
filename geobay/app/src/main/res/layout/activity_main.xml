@@ -32,6 +32,8 @@
         android:id="@+id/button2"
         android:layout_centerVertical="true"
         android:layout_alignLeft="@+id/textView"
-        android:layout_alignStart="@+id/textView" />
+        android:layout_alignStart="@+id/textView"
+        android:onClick="rejstracja"/>
+
 
 </RelativeLayout>
